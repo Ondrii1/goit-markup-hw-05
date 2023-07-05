@@ -542,8 +542,9 @@ transition: transform 250ms ease-in-out;}
                     letter-spacing: 0.02em;
                     color: #ffffff;}
                     .foot-form {display: flex;
+                        gap: 24px;
                     }
-                    .foot-label {gap:24px;}
+                    .foot-label {}
                     .foot-input {width: 264px;
                         height: 40px;
                         border: 1px solid #ffffff;
